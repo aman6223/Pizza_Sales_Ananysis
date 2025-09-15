@@ -1,4 +1,15 @@
-The Pizza House Report provides a comprehensive view of the overall sales, revenue, and customer preferences related to pizza categories and sizes across different months. The dashboard consolidates key business metrics in a clear and visual manner, making it easy to identify trends, strengths, and areas for improvement.
-The first section of the dashboard highlights the overall performance indicators. The total quantity sold stands at 50,000 pizzas, which reflects the strong demand and popularity of the product. Alongside this, the business generated a total revenue of 817.86K, which emphasizes the brand’s ability to maintain significant sales volumes while generating consistent financial returns. These figures form the foundation of the report and give a snapshot of overall business health.
-To summarize, the Pizza House Report reveals a well-performing business with strong demand across multiple categories and sizes. Seasonal trends indicate that June drives higher revenue values, while October drives higher sales volume, giving managers an opportunity to plan promotions accordingly. Chicken and Supreme pizzas are the biggest contributors to revenue, and Large and Medium pizzas make up more than two-thirds of the sales volume, showing clear customer preferences. On the other hand, Classic pizzas and XL sizes are underperforming, and strategies such as targeted discounts, bundled deals, or promotional campaigns could help increase their demand.
-Overall, this dashboard provides valuable insights into both customer behavior and business performance. By focusing on the strengths of popular categories and sizes while addressing weaker segments, Pizza House can optimize its sales strategy, enhance customer satisfaction, and continue growing its revenue base consistently.
+Sales Analysis Report - Power BI Dashboard
+
+Dashboard Insights
+
+📊 Key Metrics
+
+Total Quantity Sold: 50K pizzas
+Total Revenue: 817.86K
+
+🍕 Breakdown by Pizza Category
+
+Chicken: 26.72% of revenue share (highest).
+Supreme: 26.07% (close second).
+Veggie: 24.95%.
+Classic: 22.26% (lowest share).
